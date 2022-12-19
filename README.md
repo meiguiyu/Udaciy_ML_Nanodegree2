@@ -1,6 +1,7 @@
 # Overview of the project
+
 # Architectural Diagram
-Figure Architectural Diagram: ![plot](./images/Architecture.PNG)
+![Alt text](images/Architectural.jpg?raw=true "Figure 1")
 # Main steps
 ## Step 1: Authentication
 I skip this part because I am using Udacity provided lab.
@@ -8,8 +9,8 @@ I skip this part because I am using Udacity provided lab.
 ## Step 2: Automated ML Experiment
 In this step, I built an AutoML experiment using the bank marketing data.
 Figure 2-1: ![plot](./images/2-1.PNG)
-![plot](./images/2-2.PNG)
-![plot](./images/2-3.PNG)
+Figure 2-2: ![plot](./images/2-2.PNG)
+Figure 2-3: ![plot](./images/2-3.PNG)
 
 ## Step 3:
 ## Step 4:
