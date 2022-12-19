@@ -1,7 +1,8 @@
 # Overview of the project
 
 # Architectural Diagram
-Figure 1: Architectural Diagram ![plot](./images/Architecture.PNG "Architectural Diagram")
+![plot](./images/Architecture.PNG)
+Figure 1: Architectural Diagram 
 # Main steps
 ## Step 1: Authentication
 I skip this part because I am using Udacity provided lab.
