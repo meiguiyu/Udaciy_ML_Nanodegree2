@@ -1,8 +1,11 @@
 # Overview of the project
 
 # Architectural Diagram
+<p align="center">
 ![plot](./images/Architecture.PNG)
 Figure 1: Architectural Diagram 
+</p>
+
 # Main steps
 ## Step 1: Authentication
 I skip this part because I am using Udacity provided lab.
