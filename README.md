@@ -1,8 +1,10 @@
 # Overview of the project
 # Architectural Diagram
-![plot](./images/architecture.PNG)
+![plot](./images/Architecture.PNG)
 # Main steps
-## Step 1:
+## Step 1: Authentication
+I skip this part because I am using Udacity provided lab.
+
 ## Step 2:
 ## Step 3:
 ## Step 4:
