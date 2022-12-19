@@ -16,4 +16,7 @@ I skip this part because I am using Udacity provided lab.
 # Screencast link
 <a href="https://www.google.com/" target="_blank">Screencast video</a>
 
+# Dataset
+https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv
+
 
