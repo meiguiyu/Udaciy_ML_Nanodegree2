@@ -1,6 +1,6 @@
 # Overview of the project
 # Architectural Diagram
-![alt text](./images/architecture.PNG)
+![plot](./images/architecture.PNG)
 # Main steps
 ## Step 1:
 ## Step 2:
