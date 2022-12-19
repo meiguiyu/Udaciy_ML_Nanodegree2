@@ -1,7 +1,7 @@
 # Overview of the project
 
 # Architectural Diagram
-![Alt text](images/Architectural.jpg?raw=true "Figure 1")
+![Alt text](./images/Architectural.PNG?raw=true "Figure 1")
 # Main steps
 ## Step 1: Authentication
 I skip this part because I am using Udacity provided lab.
