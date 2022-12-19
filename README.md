@@ -1,8 +1,8 @@
 # Overview of the project
 
 # Architectural Diagram
-<p align="center">
 ![plot](./images/Architecture.PNG)
+<p align="center">
 Figure 1: Architectural Diagram 
 </p>
 
