@@ -13,17 +13,15 @@ I skip this part because I am using Udacity provided lab.
 
 ## Step 2: Automated ML Experiment
 In this step, I built an AutoML experiment using the bank marketing data. 
-Figure 2-1 shows the bank marketing dataset has been uploaded to the Azure ML Studio and is available for model training use. <br/>
+Figure 2-1 shows the bank marketing dataset has been uploaded to the Azure ML Studio and is available for model training use. <br/><br/>
 *Figure 2-1: Bank Marketing Data*
 ![plot2](./images/2-1.PNG)
-
-
-Figure 2-2 shows I created an AutoML experiment using the bank marketing data set and it has completed.
+<br/><br/>
+Figure 2-2 shows I created an AutoML experiment using the bank marketing data set and it has completed.<br/><br/>
 *Figure 2-2: AutoML Experiment Status*
 ![plot3](./images/2-2.PNG)
-
-
-Figure 2-3 shows the best model is able to be retrieved from the AutoML experiment.
+<br/><br/>
+Figure 2-3 shows the best model is able to be retrieved from the AutoML experiment.<br/><br/>
 *Figure 2-3: Best Model*
 ![plot](./images/2-3.PNG)
 
@@ -31,17 +29,18 @@ Figure 2-3 shows the best model is able to be retrieved from the AutoML experime
 ## Step 3: Deploy the Best Model
 In this step, I deployed the best AutoML model.
 
-Figure 3-1 shows the best model has been displayed with explanation enabled in the Azure AutoML Studio.
+Figure 3-1 shows the best model has been displayed with explanation enabled in the Azure AutoML Studio.<br/><br/>
 *Figure 3-1: Best Model*
 ![plot](./images/3-1.PNG)
-
-Figure 3-2 shows the best model is being deployed using ACI with authentication enabled in the Azure AutoML Studio.
+<br/><br/>
+Figure 3-2 shows the best model is being deployed using ACI with authentication enabled in the Azure AutoML Studio.<br/><br/>
 *Figure 3-2: Deploying Best Model*
 ![plot](./images/3-2.PNG)
 
-Figure 3-3 and 3-4 show the best model has been deployed successfully in the Azure AutoML Studio.
+Figure 3-3 and 3-4 show the best model has been deployed successfully in the Azure AutoML Studio.<br/><br/>
 *Figure 3-3: Deployed Best Model1*
 ![plot](./images/3-3.PNG)
+<br/><br/>
 *Figure 3-4: Deployed Best Model2*
 ![plot](./images/3-4.PNG)
 
