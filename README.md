@@ -13,7 +13,7 @@ I skip this part because I am using Udacity provided lab.
 
 ## Step 2: Automated ML Experiment
 In this step, I built an AutoML experiment using the bank marketing data. 
-Figure 2-1 shows the bank marketing dataset has been uploaded to the Azure ML Studio and is available for model training use.
+Figure 2-1 shows the bank marketing dataset has been uploaded to the Azure ML Studio and is available for model training use. <br/>
 *Figure 2-1: Bank Marketing Data*
 ![plot2](./images/2-1.PNG)
 
