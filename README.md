@@ -1,7 +1,7 @@
 # Overview of the project
 
 # Architectural Diagram
-![plot](./images/Architecture.PNG)
+![plot1](./images/Architecture.PNG)
 <p align="center">Figure 1: Architectural Diagram</p>
 
 # Main steps
@@ -11,9 +11,9 @@ I skip this part because I am using Udacity provided lab.
 ## Step 2: Automated ML Experiment
 In this step, I built an AutoML experiment using the bank marketing data. 
 Figure 2-1 shows the bank marketing dataset has been uploaded to the Azure ML Studio and is available for model training use.
-![plot](./images/2-1.PNG)
+![plot2](./images/2-1.PNG)
 <p align="center">Figure 2-1: Bank Marketing Data</p>
-![plot](./images/2-2.PNG)
+![plot3](./images/2-2.PNG)
 Figure 2-2 shows I created an AutoML experiment using the bank marketing data set and it has completed.
 <p align="center">Figure 2-2: AutoML Experiment Status</p>
 Figure 2-3 shows the best model is able to be retrieved from the AutoML experiment.
