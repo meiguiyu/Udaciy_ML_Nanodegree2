@@ -93,7 +93,7 @@ Figure 6-3 shows the returned response from the endpoint using a sample intput p
 In this part, I created, published, and consumed a pipeline for the created experiment.
 Figure 7-6 shows the Bankmarketing dataset with the AutoML module.<br/><br/>
 *Figure 7-6: Data with AutoML*
-![plot](./images/7-6.PNG)
+![plot](./images/7-66.PNG)
 <br/><br/>
 Figure 7-1 and 7-2 show a pipeline has been created for the yum-experiment in the jupyter notebook and has been running successfully.<br/><br/>
 *Figure 7-1: Create a pipeline1*
