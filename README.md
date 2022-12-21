@@ -91,6 +91,10 @@ Figure 6-3 shows the returned response from the endpoint using a sample intput p
 
 ## Step 7: Create, Publish and Consume a Pipeline
 In this part, I created, published, and consumed a pipeline for the created experiment.
+Figure 7-6 shows the Bankmarketing dataset with the AutoML module.<br/><br/>
+*Figure 7-6: Data with AutoML*
+![plot](./images/7-6.PNG)
+<br/><br/>
 Figure 7-1 and 7-2 show a pipeline has been created for the yum-experiment in the jupyter notebook and has been running successfully.<br/><br/>
 *Figure 7-1: Create a pipeline1*
 ![plot](./images/7-1.PNG)
@@ -98,12 +102,27 @@ Figure 7-1 and 7-2 show a pipeline has been created for the yum-experiment in th
 *Figure 7-2: Create a pipeline2*
 ![plot](./images/7-2.PNG)
 <br/><br/>
-Figure 7-4 and 7-5 show the pipleline has been published successfully with an active status.<br/><br/>
+Figure 7-9 shows the jupyter notebook uses RunDetails Widget.<br/><br/>
+*Figure 7-9: RunDetials widget*
+![plot](./images/7-9.PNG)
+<br/><br/>
+Figure 7-10 shows the pipeline job has completed.<br/><br/>
+*Figure 7-10: Pipeline finished*
+![plot](./images/7-10.PNG)
+<br/><br/>
+Figure 7-4, 7-5, and 7-10 show the pipleline has been published successfully with an active status.<br/><br/>
 *Figure 7-4: Published pipeline1*
 ![plot](./images/7-4.PNG)
 <br/><br/>
 *Figure 7-5: Published pipeline2*
 ![plot](./images/7-5.PNG)
+<br/><br/>
+Figure 7-7 and 7-8 shows the deatils of the published Pipeline overview.<br/><br/>
+*Figure 7-7: Published pipeline overview*
+![plot](./images/7-7.PNG)
+<br/><br/>
+*Figure 7-8: Published pipeline overview*
+![plot](./images/7-8.PNG)
 
 
 # Future improvement
